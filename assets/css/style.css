@@ -1,0 +1,11 @@
+
+
+header-bar { width: 75%;
+             height: 50px;
+             border: 15px;
+             margin: 20px;
+             display: inline-block;
+             margin : auto;
+             text-align: left;
+            }
+
